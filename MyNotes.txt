@@ -1,0 +1,5 @@
+#python manage.py makemigrations
+ - The python manage.py makemigrations command in Django is used to create new migration files based on the changes you have made to your models. These migration files are used to apply changes to the database schema.
+
+#python manage.py makemigrations
+ - do migrations
