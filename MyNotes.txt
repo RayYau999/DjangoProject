@@ -3,3 +3,11 @@
 
 #python manage.py makemigrations
  - do migrations
+
+ #python manage.py runserver
+ - run server
+
+ # pip install djangorestframework
+
+# python manage.py startapp <module folder>
+    - create a new app in Django
